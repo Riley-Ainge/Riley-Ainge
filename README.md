@@ -1,4 +1,4 @@
-<style="background-color: rgb(20, 20, 20);"></style>
+<style="background-color: rgb(20, 20, 20);">
 <div align="center">
   <h1>Hi, im Riley</h1>
   <h3>i love developing software and have for many years, my github may be new because i tradiationally have used other programs to share code with the people i am working with, i deceided i might as well make a centeralised place to store my open source stuff!</h3>
