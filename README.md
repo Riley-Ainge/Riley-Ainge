@@ -3,8 +3,8 @@
   <h3>i love developing software and have for many years, my github may be new because i tradiationally have used other programs to share code with the people i am working with, i deceided i might as well make a centeralised place to store my open source stuff!</h3>
 
   <a href="https://www.linkedin.com/in/riley-ainge-3a6b5b1b6">Linkedin</a>
-  <a href="https://www.riley-ainge.netlify.app">Website</a>
-  <a href="https://www.waste-archives.netlify.app">Project Extended Archives</a>
+  <a href="https://riley-ainge.netlify.app">Website</a>
+  <a href="https://waste-archives.netlify.app">Project Extended Archives</a>
 </div>
 
 <!---
